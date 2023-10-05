@@ -43,7 +43,7 @@ pip install -r requirements.txt
 3. Run the BizCardX web application:
 
 ```
-streamlit run app.py
+streamlit run main.py
 ```
 
 4. Upload an image of a business card to the application.
